@@ -1,5 +1,5 @@
- if basicTeenager(age >=13 && age <=19) { return "You are a teenager!" }
-age="13"
+ if ( ${basicTeenager(age)} >=13 && <=19)  { return "You are a teenager!" }
+
 
 function teenager(age) {
 
