@@ -1,6 +1,6 @@
-function basicTeenager (13)
+function basicTeenager (
 
-if basicTeenager(age >=13 && age <=19)
+if (age >=13 && age <=19))
  { return "You are a teenager!" }
 
 
