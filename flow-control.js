@@ -1,5 +1,4 @@
- if basicTeenager(13) { return ${"You are a teenager"}}
-
+ if basicTeenager(age) { return ${"You are a teenager"}}
 
 
 function teenager(age) {
